@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: o;
+    
+}
+/*  */
+.video1{
+    /* margin-left: 80px; */
+    /* padding-bottom: 200px; */
+    /* z-index: -1;
+    position: absolute; */
+}
+/*  */
+.background{
+    background-color: rgb(0, 0, 0);
+    
+}
+.first-div
+{
+    /* position: absolute; */
+    top: 0;
+    /* background-image: url("bg.webp");
+    height: 950px;
+    background-repeat: no-repeat; */
+   
+}
+.nav-bar
+{
+   
+    text-align: center;
+}
+.slick-slide > div{
+    margin: 0 10px;
+}
+/*  */
+.inner{
+    /* position: relative; */
+}
+.outer{
+    /* position: absolute; */
+    inset: 0;
+    background-color:black;
+    height:400px;
+    width:160px;
+    transition: transform .2s ease-in;
+    display: none;
+    z-index: 999;
+}
+/* .inner:hover .outer  {
+    -ms-transform: scale(1.5); /* IE 9 */
+    /* -webkit-transform: scale(1.5); /* Safari 3-8 */
+    /* transform: scale(1.5); 
+    display: block;
+  } */ */ */
